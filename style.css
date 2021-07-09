@@ -12,8 +12,9 @@ body{
     border: 2px solid white;
 }
 .img_holder img{
-    width: 200px;
-    border-radius: 30px;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
     object-fit: cover;
 }
 .resume{
